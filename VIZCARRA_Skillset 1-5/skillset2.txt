@@ -1,0 +1,11 @@
+<html>
+	<body>
+		<h1><strike><u>Heading 1<sup>superscript</sup></u></strike></h1>
+		<hr></hr>
+		<h4>Heading 4<sub>subscript</sub></h4>
+		<hr></hr>
+		<p align="center"><small><b>Bold script<sup>superscript</sup></b></small></p>
+		<hr></hr>
+
+	</body>
+</html>

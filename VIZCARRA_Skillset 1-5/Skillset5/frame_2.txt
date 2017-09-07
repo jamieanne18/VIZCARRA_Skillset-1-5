@@ -1,0 +1,12 @@
+<html>
+	<body>
+		<form>
+ 			<fieldset>
+  				<legend>Personal Info</legend>
+  				First Name: <input type="text"><br>
+  				Last Name: <input type="text"><br>
+  				Address: <br><input type="text"><br><input type="text"><br><input type="text">
+ 			</fieldset>
+		</form>
+	</body>
+</html>

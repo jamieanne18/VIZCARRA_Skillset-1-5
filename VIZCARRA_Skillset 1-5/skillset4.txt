@@ -1,0 +1,14 @@
+<html>
+	<body>
+		<table>
+			<tr>
+				<th></th>
+				<th>Column 1</th>
+				<th>Column 2</th>
+				<th>Column 3</th>
+				<th>Column 4</th>
+				<th>Column 5</th>
+			</tr>
+		</table>
+	</body>
+</html>
